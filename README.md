@@ -1,9 +1,9 @@
 <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Hasar</h1>
-- 🌱 I’m currently learning ** Fullstack developement (MERN)**
-- 💬 Ask me about **Frontend Technologies**
-- 📫 How to reach me **mohammedhasarudeen@gmail.com**
-- ⚡ Fun fact ** “One of my hidden talents is”: One of my hidden talents is connecting the dots and looking at the big picture.**
+<p>- 🌱 I’m currently learning ** Fullstack developement (MERN)**</p>
+<p>- 💬 Ask me about **Frontend Technologies**</p>
+<p>- 📫 How to reach me **mohammedhasarudeen@gmail.com**</p>
+<p>- ⚡ Fun fact ** “One of my hidden talents is”: One of my hidden talents is connecting the dots and looking at the big picture.**</p>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohammed-hasarudeen-b980b397/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/AJ2596" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
